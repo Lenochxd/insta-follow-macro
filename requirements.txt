@@ -1,2 +1,5 @@
+pyscreeze
 pyautogui
 pynput
+Pillow
+pygetwindow
